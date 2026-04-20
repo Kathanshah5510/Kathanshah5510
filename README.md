@@ -1,11 +1,14 @@
 # Hi there 👋, I'm Kathan Shah
 
-🎓 M.Tech Student | 🤖 AI/ML Enthusiast | 💻 Problem Solver  
+- 🎓 MTech (ICT) @ DAIICT
+- 🤖 Specializing in Machine Learning & Deep Learning 
+- 🧠 Interested in: Spiking Neural Networks, Computer Vision, Time-Series Modeling
+- 💻 Problem Solver  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing M.Tech in AI/ML
+- 🎓 Pursuing M.Tech in ML
 - 📍 Based in India
 - 🧠 Interested in Machine Learning, Deep Learning, and Computer Vision
 - 💡 Currently working on academic and practical ML projects
@@ -13,11 +16,33 @@
 
 ---
 
+## 📚 Education
+
+🎓 **MTech, Machine Learning**
+- 🏫 Dhirubhai Ambani University (Formerly DA-IICT)
+- 📅 2025 – Present
+- 📍 CGPA: **8.69**
+
+
+🎓 **BE, Computer Engineering**
+- 🏫 L.J. Institute of Engineering & Technology, Ahmedabad (GTU)
+- 📅 2020 – 2024
+- 📊 CGPA: **8.00**
+
+---
+
+## 🚀 What I'm Working On
+0 🦾 SNN-based Prosthetic Hand Control System
+- 📊 Time-series modelling using LSTM & sequence learning
+- 🧪 ML labs: LDA, LASSO, EM Algorithms
+
+---
+
 ## 🛠️ Tech Stack
-- 💻 Languages: C++, Python
-- 📊 ML/DL: NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
-- 📦 Tools: Git, GitHub, Jupyter Notebook
-- 📁 Others: OpenCV, Matplotlib
+- 💻 Languages: C++, Python, C# (C-sharp), HTML, CSS, jQuery, AJAX
+- 📊 ML/DL: NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch, SnnTorch
+- 📦 Tools: Git, GitHub, Jupyter Notebook, SSMS (SQL Server Management Studio), Visual Studio, VS Code
+- 📁 Others: OpenCV, Matplotlib, Seaborn
 
 ---
 
@@ -51,10 +76,5 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: kathanshah5511@gmail.com
-- 💼 LinkedIn: (add your link here)
-
----
-
-## ⚡ Fun Fact
-I debug more than I code 😄
+- 📧 Email: kathanshah5511@gmail.com | 202511045@dau.ac.in
+- 💼 LinkedIn: https://www.linkedin.com/in/kathan-shah-a6952b250/
