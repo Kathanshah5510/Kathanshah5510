@@ -44,11 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Kathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathanshah5510&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kathanshah5510&theme=tokyonight)
 
