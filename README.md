@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Kathan Shah
 
 - 🎓 MTech (ICT) @ DAIICT
-- 🤖 Specializing in Machine Learning & Deep Learning 
-- 🧠 Interested in: Spiking Neural Networks, Computer Vision, Time-Series Modeling
+- 🤖 Specializing in Machine Learning
+- 🧠 Interested in: Deep Learning, Computer Vision, Time-Series Modelling, LLM & GenAI
 - 💻 Problem Solver  
 
 ---
@@ -10,9 +10,8 @@
 ## 🚀 About Me
 - 🎓 Pursuing M.Tech in ML
 - 📍 Based in India
-- 🧠 Interested in Machine Learning, Deep Learning, and Computer Vision
 - 💡 Currently working on academic and practical ML projects
-- 🧩 Solving DSA problems regularly
+- 🧩 Solving DSA problems
 
 ---
 
@@ -21,7 +20,7 @@
 🎓 **MTech, Machine Learning**
 - 🏫 Dhirubhai Ambani University (Formerly DA-IICT)
 - 📅 2025 – Present
-- 📍 CGPA: **8.69**
+- 📊 CGPA: **8.69**
 
 
 🎓 **BE, Computer Engineering**
@@ -32,7 +31,7 @@
 ---
 
 ## 🚀 What I'm Working On
-0 🦾 SNN-based Prosthetic Hand Control System
+- 🦾 SNN-based Prosthetic Hand Control System
 - 📊 Time-series modelling using LSTM & sequence learning
 - 🧪 ML labs: LDA, LASSO, EM Algorithms
 
@@ -40,9 +39,8 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, Python, C# (C-sharp), HTML, CSS, jQuery, AJAX
-- 📊 ML/DL: NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch, SnnTorch
+- 📊 ML/DL: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, TensorFlow/PyTorch, SnnTorch
 - 📦 Tools: Git, GitHub, Jupyter Notebook, SSMS (SQL Server Management Studio), Visual Studio, VS Code
-- 📁 Others: OpenCV, Matplotlib, Seaborn
 
 ---
 
@@ -62,7 +60,7 @@
 ---
 
 ## 📌 Projects
-- 🚁 VisDrone Tracking Project (ML-based tracking experiments)
+- 🚁 VisDrone Tracking Project (ML+DL - based tracking experiments)
 - 📚 Deep Learning Lab Work
 - 💻 DSA Problem Solving (C++)
 
