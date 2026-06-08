@@ -42,15 +42,15 @@
 - 📊 ML/DL: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, TensorFlow/PyTorch, SnnTorch
 - 📦 Tools: Git, GitHub, Jupyter Notebook, SSMS (SQL Server Management Studio), Visual Studio, VS Code
 
----
+<!-- ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Kathanshah5510&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kathanshah5510&theme=tokyonight) -->
 
----
+<!-- ---
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathanshah5510&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathanshah5510&layout=compact&theme=tokyonight) -->
 
 ---
 
