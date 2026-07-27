@@ -17,10 +17,10 @@
 
 ## 📚 Education
 
-🎓 **MTech, Machine Learning**
+🎓 **MTech, ICT with specialization in Machine Learning**
 - 🏫 Dhirubhai Ambani University (Formerly DA-IICT)
 - 📅 2025 – Present
-- 📊 CGPA: **8.69**
+- 📊 CGPA: **8.31**
 
 
 🎓 **BE, Computer Engineering**
